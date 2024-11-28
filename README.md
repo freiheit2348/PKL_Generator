@@ -1,4 +1,4 @@
-##SANTI_AI
+# SANTI_AI
 ※セキュリティ面から組織用のプライベートモードでスペースを稼働させています。
 下記より組織に参加し、デモページにアクセスいただけます！
 https://huggingface.co/spaces/SANTIAI/Santi_AI 
