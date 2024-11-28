@@ -1,19 +1,10 @@
----
-title: ITNAS TEST1002
-emoji: 💻
-colorFrom: yellow
-colorTo: green
-sdk: gradio
-sdk_version: 4.44.1
-app_file: app.py
-pinned: false
----
-
-https://huggingface.co/spaces/SANTIAI/Santi_AI 
+###SANTI_AI
 
 ※セキュリティ面から組織用のプライベートモードでスペースを稼働させています。
 
 下記より組織に参加し、デモページにアクセスいただけます！
+https://huggingface.co/spaces/SANTIAI/Santi_AI 
+
 
 ## 1.下記リンクへアクセス
 
