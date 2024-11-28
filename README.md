@@ -4,9 +4,16 @@
 https://huggingface.co/spaces/SANTIAI/Santi_AI 
 
 
+
+
+
 ## 1.下記リンクへアクセス
 v1 デモページ(Hugging faceのログインもしくはアカウント作成をリンク先で求められます)
 [](https://huggingface.co/organizations/SANTIAI/share/RNKhmvsbNFYOgHWiXeFtpHleYmPRtfklCZ)
+
+
+
+
 
 
 ## 2.ITNAS TEST1002というスペースをクリック
