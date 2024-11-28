@@ -9,6 +9,8 @@ app_file: app.py
 pinned: false
 ---
 
+https://huggingface.co/spaces/SANTIAI/Santi_AI 
+
 ※セキュリティ面から組織用のプライベートモードでスペースを稼働させています。
 
 下記より組織に参加し、デモページにアクセスいただけます！
@@ -26,12 +28,13 @@ v1 デモページ(Hugging faceのログインもしくはアカウント作成�
 すでに参加している３アカウントは僕のサブ垢です。
 
 完成次第いつでもこのリポジトリの所有権は譲渡可能です。
+<img width="1387" alt="Nimage" src="https://github.com/user-attachments/assets/9db6a34b-1992-49d1-8f86-0234919568df">
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/11790adb-e888-466b-93bd-39461663951d/dac19c1b-e49c-48f0-95dc-29bdde523d1d/image.png)
 
 スペースにアクセスすると、このようなUIが開くかと思います。
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/11790adb-e888-466b-93bd-39461663951d/045b93b3-af13-4eb6-8b2e-1c1640a45e41/image.png)
+<img width="1419" alt="Nimage2" src="https://github.com/user-attachments/assets/c81cdc05-7f9d-40d8-9adb-c05b6a29dd93">
+
 
 セットアップに必要な手順は３つです。
 
@@ -47,20 +50,25 @@ _jhAjvotP0ru3z26Ad2nYHW93ZEGYZqZGeIHmBFeu9YHXTzEvOzz09g4pqyCmRQecOy0_XzUBXnbgEZ8
 
 モデルはプルダウンよりご選択いただけます。※graph_documents (1).pklが最新
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/11790adb-e888-466b-93bd-39461663951d/3931341a-b8ed-48d8-8edb-51135e8bfdc5/image.png)
+<img width="1418" alt="Nimage3" src="https://github.com/user-attachments/assets/4d2b728c-bb07-4f8e-aa2f-da2ec343d121">
+
 
 上記3点を行った後、Setupをクリックします。右のStatusに成功と表示されれば完了です。
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/11790adb-e888-466b-93bd-39461663951d/55227e69-d536-4dc2-8de7-a3220c6c0e52/image.png)
+<img width="1405" alt="Nimage4" src="https://github.com/user-attachments/assets/d684dee0-5ec0-49f5-952d-bcd1cd6b526d">
+
 
 今はテスト用に少量のデータのみベクトル化したpklファイルをアップしておりますので
 
 質問も動作確認用としてテンプレを並べております。
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/11790adb-e888-466b-93bd-39461663951d/f3ed368c-5816-4812-b92d-be4ac60a554d/image.png)
+<img width="1302" alt="Nimage5" src="https://github.com/user-attachments/assets/580ad676-9fe3-4dd8-8872-ec1af9e162d2">
+
 
 会話のリフレッシュボタンの下に**ログを保存する**ボタンがあり
 
 そちらクリックいただくとこのようにテキストファイルで保存することができます。
 
 このQ&Aも今後データセットに回せればと思っています。
+
+<img width="647" alt="Nimage6" src="https://github.com/user-attachments/assets/f5f03b6c-9780-495f-a927-620071d47fc6">
